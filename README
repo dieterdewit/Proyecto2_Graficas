@@ -1,0 +1,14 @@
+Proyecto 2 - Dieter de Wit 
+
+1. Para correr el OpenGL 
+  - Dirigirse a la carpeta /OpenGL_Mesa/build
+  - Correr cmake: 
+    cmake ..
+  - Luego correr makefile
+    make all
+  - Dirigirse a la carpeta del proyecto /OpenGL_Mesa/proyecto2 y probar cualquiera de los dos ejecutables
+    ./proyecto2
+    ./proyecto2_assimp
+    
+2. Para correr el WebGL
+  - Abrir el .html con Firefox (Ya viene configurado para WebGl) o algun navegador que tenga WebGL habilitado.
